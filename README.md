@@ -1,1 +1,1 @@
-Build a FullStack Job Portal App with MERN Stack (MongoDB, Express, React Js, Node Js)
+Build a FullStack Job Portal Application with MERN Stack (MongoDB, Express, React Js, Node Js)
